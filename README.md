@@ -8,7 +8,7 @@ Give me a star if you like it!!!
 ## Overview
 This project introduce the Heterogeneous Same-Sort Industrial Anomaly Detection (HSSIAD) dataset, which contains 8,580 images of metallic-like industrial parts and precise anomaly annotations. These parts exhibit variations in structure and appearance, with subtle defects that closely resemble the base materials. We also provide foreground images for synthetic anomaly generation. The HSS-IAD dataset stands out for its focus on same-sort industrial products with variations in structure and appearance. It tackles the challenge of detecting subtle defects that closely resemble base materials, which are common in real-world industrial settings. The dataset's design—covering various defects and interference sources like machining marks and oil stains—is original and innovative. This is in contrast to previous datasets that do not address these practical issues effectively.
 
-<img src="/fu_data.pdf" width="400">
+<img src="/fu_data.png" width="400">
 
 This is an example of multimodal relation extraction in Twitter. There are three entities in this sentence: "JFK", "Obama" and "Harvard". The main task of relation extraction is to identify the relations of each entity pair. Previous works incorrectly classify the relations of "JFK" and "Harvard" as "Residence" and the "JFK" and "Obama" as "Spouse" due to the missing of contexts. However, we can know that "JFK" and "Harvard" are in the relation of "Graduated at" with the visual concepts "Bachelor cap" and "Gown". Still, the relations of "JFK" and "Obama" can be identified as "Alumni" with the guidance of all the visual objects about "Campus".
 
