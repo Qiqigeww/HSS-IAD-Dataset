@@ -14,4 +14,4 @@ The left side displays the normal images of each type in the dataset, while the 
 
 ## Data Usage
 
-The image data can be downloaded [here](https://drive.google.com/file/d/1FYiJFtRayWY32nRH0rdycYzIdDcMmDFR/view?usp=sharing). 
+The image data can be downloaded [here](https://drive.google.com/file/d/1IbzXLHtr94m9XGRvgxAglOu1EOhGxoGW/view?usp=sharing). 
