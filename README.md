@@ -1,8 +1,6 @@
 # HSS-IAD-Dataset
 Dataset for paper "HSS-IAD: A Heterogeneous Same-Sort Industrial Anomaly Detection Dataset"[paper](https://arxiv.org/abs/2504.12689)
 
-The dataset is preview version, so it could be really ugly with minor errors. We will try to reformat it after the paper is accepted.
-
 Give me a star if you like it!!!
 
 News 03/21/2025: Accepted by ICME2025!
