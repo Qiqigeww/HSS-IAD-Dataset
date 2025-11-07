@@ -1,5 +1,5 @@
 # HSS-IAD-Dataset
-Dataset for paper "HSS-IAD: A Heterogeneous Same-Sort Industrial Anomaly Detection Dataset"[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11208914)
+Dataset for paper "HSS-IAD: A Heterogeneous Same-Sort Industrial Anomaly Detection Dataset"[paper](https://ieeexplore.ieee.org/document/11208914)
 
 Give me a star if you like it!!!
 
