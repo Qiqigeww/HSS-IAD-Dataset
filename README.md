@@ -17,3 +17,16 @@ The left side displays the normal images of each type in the dataset, while the 
 ## Data Usage
 
 The image data can be downloaded [here](https://drive.google.com/file/d/13lBfOodsfkkQhX7PJ7kT8qc2KuHqwD4L/view?usp=sharing). 
+
+## Citation
+```
+
+@INPROCEEDINGS{wang2025hss,
+  title={HSS-IAD: A Heterogeneous Same-Sort Industrial Anomaly Detection Dataset}, 
+  author={Wang, Qishan and Gao, Shuyong and Hu, Junjie and Yu, Jiawen and Tong, Xuan and Li, You and Zhang, Wenqiang},
+  booktitle={2025 IEEE International Conference on Multimedia and Expo (ICME)}, 
+  pages={1-6},
+  year={2025}
+}
+
+```
